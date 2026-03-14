@@ -1,10 +1,10 @@
-# 🧠 Belajar MediaPipe by Hanif Fawwaz
+# 🖐️ Belajar MediaPipe by Hanif Fawwaz
 
 Belajar **Computer Vision menggunakan MediaPipe + Python** dari **dasar sampai project nyata**.
 
-
-
-\
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.0-00A651?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-white?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ---
 
