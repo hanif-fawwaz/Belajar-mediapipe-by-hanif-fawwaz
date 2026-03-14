@@ -1,0 +1,9 @@
+Mata kiri → id = 33
+
+Mata kanan → id = 263
+
+Ujung hidung → id = 1
+
+Mulut atas → id = 13
+
+Mulut bawah → id = 14

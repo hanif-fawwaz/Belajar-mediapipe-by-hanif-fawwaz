@@ -1,0 +1,6 @@
+0  : Wrist (pergelangan)
+1–4: Jempol
+5–8: Telunjuk
+9–12: Jari tengah
+13–16: Jari manis
+17–20: Kelingking

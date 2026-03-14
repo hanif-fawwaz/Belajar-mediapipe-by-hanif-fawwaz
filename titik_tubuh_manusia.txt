@@ -1,0 +1,17 @@
+0 = hidung
+
+11 = bahu kiri
+
+12 = bahu kanan
+
+23 = pinggul kiri
+
+24 = pinggul kanan
+
+27 = lutut kiri
+
+28 = lutut kanan
+
+31 = mata kaki kiri
+
+32 = mata kaki kanan
